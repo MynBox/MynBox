@@ -1,5 +1,13 @@
+### Mayen Box
+
+Cybersecurity student at HELMo (Liège) · Blue team: SOC, DFIR, threat hunting
+
+I came to IT from physiotherapy. Same reflex, different patient: find what hurts, understand why, and stop it before it spreads. Today that means detection and incident response, from endpoints and networks to the cloud, and to the humans behind the keyboard.
+
+Basically, if it can be hacked, I want to be the one who notices.
+
 <h3 align="center">Hack The Box Academy Badges</h3>
-<p align="center"><sub>Cliquez sur un badge pour voir la vérification officielle HTB</sub></p>
+<p align="center"><sub>Click a badge to see the official HTB verification</sub></p>
 
 <table align="center">
   <tr>
@@ -29,7 +37,7 @@
         <img src="./badges/matrix-operative.webp" width="75" alt="Matrix Operative" /><br />
         <b>Matrix Operative</b>
       </a><br />
-      <sub>MITRE ATT&CK</sub>
+      <sub>MITRE ATT&amp;CK</sub>
     </td>
     <td align="center" width="150">
       <a href="https://academy.hackthebox.com/achievement/badge/35d21436-d625-11f1-9524-0affe7dfeb45" target="_blank">
